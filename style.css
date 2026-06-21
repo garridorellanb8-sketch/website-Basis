@@ -1,5 +1,5 @@
 body {
-  background-color: green;
+  background-color: white;
 }
 
 h1 {
@@ -9,3 +9,21 @@ h1 {
 p {
   color: yellow;
   {
+
+ul {
+  color: pink;
+}
+  ol {
+   color: purple;
+  }
+
+  button {
+    background-color: blue;
+    color: red;
+    font-family: fantasy;
+    font-size: 30px;  
+    border: 2px dashed black;
+  }
+  
+  
+  
